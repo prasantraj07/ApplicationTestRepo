@@ -34,6 +34,11 @@ public class ReadConfig
 		
 	}
 
+	public void pullExample()
+	{
+		System.out.println("Pulling the code");
+	}
+
 }
 
 
